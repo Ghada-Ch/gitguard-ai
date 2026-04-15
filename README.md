@@ -1,12 +1,11 @@
 # 🛡️ GitGuard AI
+> AI-powered Git security & risk scanner for modern developers.
+
 
 ![npm version](https://img.shields.io/npm/v/gitguard-ai)
 ![downloads](https://img.shields.io/npm/dm/gitguard-ai)
 ![license](https://img.shields.io/npm/l/gitguard-ai)
 
-
-
-> AI-powered Git security & risk scanner for modern developers.
 
 ---
 
