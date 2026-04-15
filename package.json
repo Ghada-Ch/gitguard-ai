@@ -1,0 +1,22 @@
+{
+  "name": "gitguard-ai",
+  "version": "1.0.0",
+  "bin": {
+    "gitguard-ai": "./cli/index.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/parser": "^7.29.2",
+    "@babel/traverse": "^7.29.0",
+    "@octokit/rest": "^22.0.1",
+    "chalk": "^5.6.2",
+    "simple-git": "^3.36.0"
+  }
+}
