@@ -164,6 +164,8 @@ Fast. Lightweight. Developer-first.
 
 Built with passion for modern development workflows.
 
+Maintained by **Ghada Chouichi**.
+
 ---
 
 ## 📄 License
